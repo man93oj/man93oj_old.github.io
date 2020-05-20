@@ -7,6 +7,9 @@ name: Manoj Prabhakar Nallabothula
 title: Software/Data Engineer
 email: nallabothula.mp@gmail.com
 
+# Dark Mode (true/false/never)
+darkmode: false
+
 # Social links
 # twitter_username: man93oj
 github_username:  man93oj
